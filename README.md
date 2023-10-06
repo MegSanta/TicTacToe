@@ -1,4 +1,4 @@
 # TicTacToe
 A tic tac toe game that can be played by two players on separate servers with a UI gameboard.
 
-<img src='AND101P3.gif' title='Video Demo' width='' alt='Video Demo' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/JkMecks" data-context="false" ><a href="//imgur.com/a/JkMecks"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
